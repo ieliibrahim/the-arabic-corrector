@@ -1,0 +1,12 @@
+com\ieli\corrector\controller\AppController.class
+com\ieli\corrector\config\SecurityConfiguration.class
+com\ieli\corrector\repository\UserRepository.class
+com\ieli\corrector\repository\UserRoleRepository.class
+com\ieli\corrector\service\CustomUserDetailsService.class
+com\ieli\corrector\model\User.class
+com\ieli\corrector\util\StackTraceHandler.class
+com\ieli\corrector\config\AppInitializer.class
+com\ieli\corrector\config\AppConfig.class
+com\ieli\corrector\config\SecurityWebApplicationInitializer.class
+com\ieli\corrector\config\MongoConfig.class
+com\ieli\corrector\model\UserRole.class
